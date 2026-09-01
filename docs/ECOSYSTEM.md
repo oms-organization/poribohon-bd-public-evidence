@@ -15,8 +15,17 @@ This page provides a simple public map of the verified properties referenced aro
 ### OMS IT
 - Website: https://omsitbd.com/
 - GitHub organization: https://github.com/oms-organization
+- LinkedIn: https://www.linkedin.com/in/omsitbd/
 
-PoribohonBD's public structured data and provenance surface identify OMS IT in a technology/creator context. This repository does not extend that evidence into unsupported legal or ownership claims.
+PoribohonBD's public structured data and provenance surface identify OMS IT in a technology/creator context. This repository does not extend that evidence into unsupported legal or ownership claims. The LinkedIn URL above is an OMS IT public channel, not a PoribohonBD social identity.
+
+## Founder / Technology Leadership credential evidence
+
+Public-safe professional credential evidence associated with the technology leadership behind related OMS ecosystem work is documented separately:
+
+- [Founder / Technology Leadership Credentials](FOUNDER_CREDENTIALS.md)
+
+Credentials belong to their named holder and are not certifications, awards, endorsements, memberships, or accreditations granted to PoribohonBD unless the original source explicitly states that.
 
 ## Other verified public properties in the wider documented ecosystem
 
