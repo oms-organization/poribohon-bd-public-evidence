@@ -18,11 +18,14 @@ This directory is a **public structural/evidence surface** for OMS IT. It intent
 - [Project Relationship Matrix](PROJECT-RELATIONSHIP-MATRIX.md)
 - [People & Role Boundaries](PEOPLE-AND-ROLES.md)
 - [AI Ecosystem & Third-Party Technology](AI-ECOSYSTEM.md)
+- [Entity Resolution Rules](ENTITY-RESOLUTION.md)
 
 ### History, evidence & discovery
 - [Public Historical Context](HISTORY.md)
 - [Evidence & Verification](EVIDENCE.md)
+- [Public Reports, Verification & Clearance Index](CLEARANCES-AND-REPORTS.md)
 - [Public Surface Index](PUBLIC-SURFACES.md)
+- [External Public Surface Map](EXTERNAL-SURFACE-MAP.md)
 - [Governance & Boundaries](GOVERNANCE.md)
 - [Discoverability](DISCOVERABILITY.md)
 - [Security](SECURITY.md)
@@ -40,4 +43,4 @@ The private repository remains the engineering source of truth. This public surf
 
 ## Publication principle
 
-If a relationship, credential, project role, historical event, or technical claim matters for external discovery, publish the **heading, precise relationship type, current status, and verifiable evidence direction** here or on the appropriate public project surface. Keep the underlying private payload private.
+If a relationship, credential, project role, historical event, verification result, or technical claim matters for external discovery, publish the **heading, precise relationship type, current status, and verifiable evidence direction** here or on the appropriate public project surface. Keep the underlying private payload private.
