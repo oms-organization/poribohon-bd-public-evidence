@@ -19,6 +19,8 @@ This directory is a **public structural/evidence surface** for OMS IT. It intent
 - [People & Role Boundaries](PEOPLE-AND-ROLES.md)
 - [AI Ecosystem & Third-Party Technology](AI-ECOSYSTEM.md)
 - [Entity Resolution Rules](ENTITY-RESOLUTION.md)
+- [Relationship History](RELATIONSHIP-HISTORY.md)
+- [Authorization & Agreement Index](AUTHORIZATION-AND-AGREEMENT-INDEX.md)
 
 ### History, evidence & discovery
 - [Public Historical Context](HISTORY.md)
@@ -30,12 +32,20 @@ This directory is a **public structural/evidence surface** for OMS IT. It intent
 - [Discoverability](DISCOVERABILITY.md)
 - [Security](SECURITY.md)
 
-## Important relationship distinctions
+## Relationship and policy interpretation
 
-- BD AI is an independent Bangladesh-focused initiative.
-- OMS IT provides engineering and technical/operational support for BD AI where applicable; this does not make OMS IT the owner, parent, subsidiary, governing authority, or controller of BD AI.
-- BD AI is not ChatGPT and is not OpenAI. Applicable BD AI products may use third-party AI technologies, but technology use does not itself establish vendor partnership, endorsement, accreditation, or ownership.
-- Person-level technical attribution is kept separate from organization ownership or governance.
+- OMS IT and BD AI are separately identifiable entities with a documented working engineering/technology relationship where applicable.
+- OMS IT's role is recorded according to the actual engineering, technology, consulting/integration, and operational support evidence available for each engagement or project.
+- BD AI's identity and initiative role are recorded separately from the engineering organization supporting it.
+- BD AI and OMS IT may use third-party AI technologies. Each service is used within the applicable terms, policies, safety requirements, and usage conditions of that technology. Technology use is kept distinct from unsupported claims about ownership, employment, sponsorship, certification, endorsement, or official representation.
+- Person-level technical attribution is kept separate from organization identity, contractual authority, and governance.
+- Recognition follows documented role, contribution, authorization, and evidence rather than an assumed hierarchy between entities.
+
+## Historical and agreement continuity
+
+Relationship history, proposals, authorizations, agreements, amendments, project permissions, and acceptance/closure records should be indexed as they arise. This prevents later documentation from having to reconstruct several independent records into one narrative.
+
+The [Relationship History](RELATIONSHIP-HISTORY.md) records the high-level sequence. The [Authorization & Agreement Index](AUTHORIZATION-AND-AGREEMENT-INDEX.md) records the status and evidence direction of formal relationship records. Exact private agreement payloads remain private unless intentionally published.
 
 ## Source boundary
 
