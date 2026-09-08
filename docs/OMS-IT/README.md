@@ -22,6 +22,12 @@ This directory is a **public structural/evidence surface** for OMS IT. It intent
 - [Relationship History](RELATIONSHIP-HISTORY.md)
 - [Authorization & Agreement Index](AUTHORIZATION-AND-AGREEMENT-INDEX.md)
 
+### AI, portfolio & evidence continuity
+- [AI Agent Evidence Register](AI-AGENT-EVIDENCE-REGISTER.md)
+- [OpenAI / AI Ecosystem Portfolio](OPENAI-ECOSYSTEM-PORTFOLIO.md)
+- [Opening Brand Closure](OPENING-BRAND-CLOSURE.md)
+- [Public Evidence Map](PUBLIC-EVIDENCE-MAP.md)
+
 ### History, evidence & discovery
 - [Public Historical Context](HISTORY.md)
 - [Evidence & Verification](EVIDENCE.md)
