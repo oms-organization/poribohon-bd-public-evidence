@@ -27,6 +27,7 @@ This directory is a **public structural/evidence surface** for OMS IT. It intent
 - [OpenAI / AI Ecosystem Portfolio](OPENAI-ECOSYSTEM-PORTFOLIO.md)
 - [Opening Brand Closure](OPENING-BRAND-CLOSURE.md)
 - [Public Evidence Map](PUBLIC-EVIDENCE-MAP.md)
+- [Public Claim & Verification Audit](PUBLIC-CLAIM-AND-VERIFICATION-AUDIT.md)
 
 ### History, evidence & discovery
 - [Public Historical Context](HISTORY.md)
