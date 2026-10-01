@@ -21,6 +21,14 @@ Start with the primary sources rather than relying on this repository alone:
 
 The public PoribohonBD production surface documents **OMS IT** as its technology/engineering contributor, including public structured-data attribution identifying OMS IT as creator. This repository does not convert that technical attribution into an unsupported claim of ownership, government status, endorsement, or legal partnership.
 
+## OpenAI Partner Network status
+
+**OMS IT has access to the OpenAI Partner Network PartnerU portal and is completing partner-network enablement and review activities.**
+
+This repository does **not** represent OMS IT as an OpenAI-approved, Select, Advanced, or Elite partner unless that status is independently confirmed by OpenAI's public partner directory or an official OpenAI partner communication. Public verification should therefore rely on OpenAI's official Partner Network resources.
+
+Official reference: https://openai.com/business/partners/
+
 ## Verified public profiles
 
 - PoribohonBD Facebook — https://www.facebook.com/PoribohonBDOfficial
