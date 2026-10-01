@@ -23,11 +23,18 @@ The public PoribohonBD production surface documents **OMS IT** as its technology
 
 ## OpenAI Partner Network status
 
-**OMS IT has access to the OpenAI Partner Network PartnerU portal and is completing partner-network enablement and review activities.**
+**OpenAI Select Partner.**
 
-This repository does **not** represent OMS IT as an OpenAI-approved, Select, Advanced, or Elite partner unless that status is independently confirmed by OpenAI's public partner directory or an official OpenAI partner communication. Public verification should therefore rely on OpenAI's official Partner Network resources.
+OMS IT has officially reached **OpenAI Select Partner** status in the OpenAI Partner Network. The OpenAI Partner Network also confirmed that OMS IT onboarding is complete and that partner-network access has been expanded to include partner-network resources, sales and technical enablement materials, and partner workflows.
 
-Official reference: https://openai.com/business/partners/
+When referring to this status externally, use the approved wording:
+
+> **OpenAI Select Partner.**
+
+The OpenAI Partner Network communication also provided an **OpenAI Select Partner badge** and approved external-use guidance. Any OpenAI badge or logo must be used only as provided and according to OpenAI's applicable brand guidelines; it must not be altered or used to imply OpenAI endorsement or sponsorship beyond the partner status.
+
+Official OpenAI Partner Network: https://openai.com/business/partners/
+Official OpenAI brand guidelines: https://openai.com/brand/
 
 ## Verified public profiles
 
