@@ -31,6 +31,11 @@ When referring to this status externally, use the approved wording:
 
 > **OpenAI Select Partner.**
 
+OpenAI Partner Marketing reviewed OMS IT's submitted Select Partner press release and approved that submitted copy as-is. The publication-ready copy and its scope boundary are recorded here:
+
+- [OMS IT — OpenAI Select Partner Press Release](docs/OMS-IT/OPENAI-SELECT-PARTNER-PRESS-RELEASE.md)
+- [OMS IT — Public Claim & Verification Audit](docs/OMS-IT/PUBLIC-CLAIM-AND-VERIFICATION-AUDIT.md)
+
 The OpenAI Partner Network communication also provided an **OpenAI Select Partner badge** and approved external-use guidance. Any OpenAI badge or logo must be used only as provided and according to OpenAI's applicable brand guidelines; it must not be altered or used to imply OpenAI endorsement or sponsorship beyond the partner status.
 
 Official OpenAI Partner Network: https://openai.com/business/partners/
@@ -53,6 +58,8 @@ These are distinct public properties referenced only where public evidence suppo
 
 ## Evidence index
 
+- [OMS IT — OpenAI Select Partner Press Release](docs/OMS-IT/OPENAI-SELECT-PARTNER-PRESS-RELEASE.md)
+- [OMS IT — Public Claim & Verification Audit](docs/OMS-IT/PUBLIC-CLAIM-AND-VERIFICATION-AUDIT.md)
 - [Public Identity Register](docs/IDENTITY.md)
 - [Trust & Verification Model](docs/TRUST.md)
 - [Public Source Register](docs/SOURCES.md)
